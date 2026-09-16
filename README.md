@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：版本管理
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 082 篇 - 百家乐Ai预测分析工具：参数改动为何要留下原因与时间](https://github.com/TGmszrcsz/baccarat-ai-082) ｜ [下一篇：第 084 篇 - 百家乐Ai预测分析工具：原始数据与清洗结果应怎样分开保存](https://github.com/TGmszrcsz/baccarat-ai-084)
+
+<!-- article-chain:end -->
+
 多人可以修改结果，却没有标记谁改了什么。本篇围绕“操作权限如何影响数据记录的可信度”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
